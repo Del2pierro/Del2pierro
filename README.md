@@ -16,5 +16,5 @@ Que ce soit pour structurer des bases de données relationnelles, intégrer des 
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_NOM_UTILISATEUR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Del2pierro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>

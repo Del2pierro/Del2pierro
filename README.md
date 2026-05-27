@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_LOCATED-LOMÉ-555555?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/LANGUAGES-PYTHON_|_SQL_|_DART-0f172a?style=for-the-badge" alt="Languages" />
+  <img src="https://img.shields.io/badge/DATA_&_AI-MACHINE_LEARNING_|_BIG_DATA-0f172a?style=for-the-badge" alt="Data" />
+  <img src="https://img.shields.io/badge/FRAMEWORKS-FASTAPI_|_FLUTTER-0f172a?style=for-the-badge" alt="Frameworks" />
+</p>
 
-<!--
-**Del2pierro/Del2pierro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Présentation
 
-Here are some ideas to get you started:
+Développeur Python et Data Scientist junior, je me passionne pour la convergence entre l'analyse de données complexes et le développement Full-Stack. Mon objectif est de transformer la donnée en applications concrètes, de la conception des algorithmes (expérimentation sur les réseaux de neurones, calculs de fonctions de coût) jusqu'au développement d'API performantes avec FastAPI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Que ce soit pour structurer des bases de données relationnelles, intégrer des design patterns pour rendre le code maintenable, ou configurer des déploiements sur des infrastructures cloud, j'aime concevoir des solutions de bout en bout avec une architecture rigoureuse.
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_NOM_UTILISATEUR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>

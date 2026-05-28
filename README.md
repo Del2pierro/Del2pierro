@@ -10,14 +10,16 @@
 
 ## 🧭 About Me
 
-I am a **junior developer passionate about Data Science and Software Engineering**.
+I am a **junior developer passionate about Data Science, Software Engineering and Blockchain systems**.
 
 I enjoy building projects that combine:
 - 📊 Data analysis & Machine Learning  
 - 🧠 Mathematical modeling  
-- 💻 Clean and scalable software design  
+- 💻 Clean software architecture  
+- ⛓️ Blockchain systems (Hyperledger Fabric)  
+- ☁️ Cloud computing & deployment  
 
-🎯 Goal: Become a strong **Machine Learning Engineer / Data Scientist**
+🎯 Goal: Become a strong **Machine Learning / Blockchain / Cloud Engineer**
 
 ---
 
@@ -48,6 +50,19 @@ I enjoy building projects that combine:
 
 ---
 
+### ⛓️ Blockchain
+- Hyperledger Fabric (private blockchain networks)
+- Supply chain traceability systems (Cacao project)
+
+---
+
+### ☁️ Cloud & Deployment
+- Cloud computing fundamentals (AWS / VPS concepts)
+- Docker-based deployment
+- CI/CD pipelines (GitHub Actions basics)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📊 Aviator Prediction Model
@@ -57,8 +72,6 @@ Machine learning project for pattern analysis and probabilistic modeling.
 
 ---
 
-
-
 ### 🎬 Video Club System (Java)
 OOP-based management system for movies, users, and rentals.
 
@@ -67,7 +80,7 @@ OOP-based management system for movies, users, and rentals.
 ---
 
 ### 🌱 Chaîne Cacao – Traceability System
-Supply chain traceability system for cocoa production.
+Supply chain traceability system using structured backend architecture.
 
 🔗 <a href="https://github.com/Del2pierro/chaine-cacao" target="_blank">View Project</a>
 
@@ -88,9 +101,10 @@ Supply chain traceability system for cocoa production.
 ## 📌 Core Focus
 
 ✔ Machine Learning & Data Science  
+✔ Blockchain systems (Hyperledger Fabric)  
+✔ Cloud & deployment  
 ✔ Software Engineering  
 ✔ Clean Architecture  
-✔ Real-world Projects  
 ✔ Continuous Learning  
 
 ---

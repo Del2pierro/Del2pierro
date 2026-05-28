@@ -12,6 +12,20 @@ Building data-driven systems with a focus on machine learning, backend engineeri
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/LOCATED-4B5563?style=for-the-badge&labelColor=6B7280"/>
+
+<img src="https://img.shields.io/badge/TOGO-111827?style=for-the-badge&color=172554"/>
+
+<img src="https://img.shields.io/badge/STACK-2B2F36?style=for-the-badge&labelColor=6B7280"/>
+
+<img src="https://img.shields.io/badge/PYTHON_|_FASTAPI_|_SPRINGBOOT_|_NUMPY-0B1120?style=for-the-badge&color=0F172A"/>
+
+</p>
+
+---
+
 ## 📌 About Me
 
 I am a junior developer focused on **Data Science, Software Engineering, Blockchain, and Cloud systems**.
@@ -79,60 +93,57 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
 - Model evaluation & statistical analysis
 
 ---
+## Blockchain Skills
+
+    
+  <img src="https://skillicons.dev/icons?i=hyperledger" /><br/>
+  <b>Hyperledger Fabric</b><br/>
+  Private Blockchain Networks<br/>
+  Smart Contracts · Traceability Systems
+  
 
 
 ## 🚀 Featured Projects
 
-### 📊 Aviator Prediction Model
-Machine learning system for pattern recognition and probabilistic modeling.
+<p align="center">
 
-🔗 https://github.com/Del2pierro/Aviator_Predictor
+<a href="https://github.com/Del2pierro?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
 
----
-
-### 🌱 Chaîne Cacao – Traceability System
-Backend system for tracking cocoa production across the supply chain.
-
-Focus: transparency, traceability, and data integrity.
-
-🔗 https://github.com/timothee-klaus/Chaine-cacao
-
----
-
-### 🎬 Video Club System (Java)
-Object-oriented system for managing media inventory and rentals.
-
-Focus: clean architecture and modular design.
-
-🔗 https://github.com/Del2pierro/video_club_java_apk
-
-
-
----
-
-## 🎯 Engineering Principles
-
-- Write simple and maintainable code  
-- Prefer correctness over complexity  
-- Build structured systems, not scripts  
-- Focus on scalability and readability  
-- Document work clearly and consistently  
-
+</p>
 ---
 
 ## 📫 Contact
 
 <p align="center">
 
+<a href="https://github.com/Del2pierro">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0A0F1C?style=for-the-badge&labelColor=2B2F36&color=111827"/>
+</a>
+
+<!-- <a href="https://github.com/Del2pierro">
+  <img src="https://img.shields.io/badge/KLAUS.SOFTWARE-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a> -->
+
 <a href="https://www.linkedin.com/in/pierre-paul-kpatou-934506390/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-2B2F36?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pierrepaulkatou04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/CONNECT-0078D4?style=for-the-badge&labelColor=111827"/>
+</a>
+
+<a href="mailto:pierrepaulkatou04@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-6B7280?style=for-the-badge&labelColor=2B2F36"/>
+</a>
+
+<a href="mailto:pierrepaulkatou04@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-E85D3F?style=for-the-badge&labelColor=111827"/>
 </a>
 
 </p>
+
 
 ---
 

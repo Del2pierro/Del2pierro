@@ -114,7 +114,7 @@ Supply chain traceability system for cocoa production using backend architecture
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pierre-paul-kpatou/" target="_blank">
+<a href="https://www.linkedin.com/in/pierre-paul-kpatou-934506390/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 

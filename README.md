@@ -12,6 +12,20 @@ Building data-driven systems with a focus on machine learning, backend engineeri
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/📍_LOCATED-4B5563?style=for-the-badge&labelColor=6B7280"/>
+
+<img src="https://img.shields.io/badge/TOGO-111827?style=for-the-badge&color=172554"/>
+
+<img src="https://img.shields.io/badge/STACK-2B2F36?style=for-the-badge&labelColor=6B7280"/>
+
+<img src="https://img.shields.io/badge/FLUTTER_|_REACT_|_SPRINGBOOT-0B1120?style=for-the-badge&color=0F172A"/>
+
+</p>
+
+---
+
 ## 📌 About Me
 
 I am a junior developer focused on **Data Science, Software Engineering, Blockchain, and Cloud systems**.
@@ -124,15 +138,32 @@ Focus: clean architecture and modular design.
 
 <p align="center">
 
+<a href="https://github.com/Del2pierro">
+  <img src="https://img.shields.io/badge/⚛️_PORTFOLIO-0A0F1C?style=for-the-badge&labelColor=2B2F36&color=111827"/>
+</a>
+
+<a href="https://github.com/Del2pierro">
+  <img src="https://img.shields.io/badge/KLAUS.SOFTWARE-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
+
 <a href="https://www.linkedin.com/in/pierre-paul-kpatou-934506390/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-2B2F36?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pierrepaulkatou04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/CONNECT-0078D4?style=for-the-badge&labelColor=111827"/>
+</a>
+
+<a href="mailto:pierrepaulkatou04@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_EMAIL-6B7280?style=for-the-badge&labelColor=2B2F36"/>
+</a>
+
+<a href="mailto:pierrepaulkatou04@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-E85D3F?style=for-the-badge&labelColor=111827"/>
 </a>
 
 </p>
+
 
 ---
 

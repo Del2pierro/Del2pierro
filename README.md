@@ -42,20 +42,20 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
       Python · Java · JavaScript
     </td>
 
-    <td align="center">
+  <td align="center">
       <img src="https://skillicons.dev/icons?i=fastapi,flask,spring" /><br/>
       FastAPI · Flask · Spring Boot
-    </td>
+  </td>
 
-    <td align="center">
+  <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,git,linux" /><br/>
       Docker · Git · Linux
-    </td>
+  </td>
 
-    <td align="center">
+  <td align="center">
       <img src="https://skillicons.dev/icons?i=hyperledger" /><br/>
       Hyperledger Fabric
-    </td>
+  </td>
   </tr>
 </table>
 

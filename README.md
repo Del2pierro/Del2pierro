@@ -69,7 +69,7 @@ OOP-based system for managing movies, users, and rentals
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Del2pierro&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Del2pierro&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 
@@ -91,7 +91,7 @@ OOP-based system for managing movies, users, and rentals
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pierre-paul-kpatou">
+<a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

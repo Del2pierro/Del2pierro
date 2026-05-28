@@ -26,36 +26,46 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Del2pierro&theme=tokyonight&hide_border=true" width="48%"/>
+
+</p>
+
+---
+
+## 🛠️ Technical Skills
 
 <table align="center">
   <tr>
-    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Frontend</b></td>
     <td align="center"><b>Backend</b></td>
-    <td align="center"><b>DevOps</b></td>
-    <td align="center"><b>Blockchain</b></td>
+    <td align="center"><b>Databases</b></td>
+    <td align="center"><b>Tools & DevOps</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,javascript" /><br/>
-      Python · Java · JavaScript
+      <img src="https://skillicons.dev/icons?i=react,javascript,html,css" /><br/>
+      React · UI Development
     </td>
 
   <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,flask,spring" /><br/>
-      FastAPI · Flask · Spring Boot
-  </td>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,spring" /><br/>
+      Python · FastAPI · Flask · Spring Boot
+    </td>
 
   <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,linux" /><br/>
-      Docker · Git · Linux
-  </td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br/>
+      PostgreSQL · MySQL · MongoDB
+    </td>
 
   <td align="center">
-      <img src="https://skillicons.dev/icons?i=hyperledger" /><br/>
-      Hyperledger Fabric
-  </td>
+      <img src="https://skillicons.dev/icons?i=postman,docker,git,linux" /><br/>
+      Postman · Docker · Git · Linux
+    </td>
   </tr>
 </table>
 
@@ -96,17 +106,7 @@ Focus: clean architecture and modular design.
 
 🔗 https://github.com/Del2pierro/video_club_java_apk
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Del2pierro&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=Del2pierro&theme=tokyonight&hide_border=true" width="48%"/>
-
-</p>
 
 ---
 

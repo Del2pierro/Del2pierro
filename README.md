@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Pierre%20Kpatou&fontSize=38&fontColor=ffffff)
 
@@ -10,16 +9,16 @@
 
 ## 🧭 About Me
 
-I am a **junior developer passionate about Data Science, Software Engineering and Blockchain systems**.
+I am a **junior developer passionate about Data Science, Software Engineering, Blockchain and Cloud systems**.
 
 I enjoy building projects that combine:
 - 📊 Data analysis & Machine Learning  
 - 🧠 Mathematical modeling  
 - 💻 Clean software architecture  
-- ⛓️ Blockchain systems (Hyperledger Fabric)  
-- ☁️ Cloud computing & deployment  
+- ⛓️ Blockchain systems  
+- ☁️ Cloud & deployment  
 
-🎯 Goal: Become a strong **Machine Learning / Blockchain / Cloud Engineer**
+🎯 Goal: Become a strong **ML Engineer / Data Engineer / Cloud Developer**
 
 ---
 
@@ -51,15 +50,19 @@ I enjoy building projects that combine:
 ---
 
 ### ⛓️ Blockchain
-- Hyperledger Fabric (private blockchain networks)
-- Supply chain traceability systems (Cacao project)
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+
+- Private blockchain networks  
+- Supply chain traceability systems (Chaîne Cacao project)
 
 ---
 
 ### ☁️ Cloud & Deployment
-- Cloud computing fundamentals (AWS / VPS concepts)
-- Docker-based deployment
-- CI/CD pipelines (GitHub Actions basics)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+- Docker containerization  
+- CI/CD basics (GitHub Actions)  
+- Cloud deployment concepts (AWS / VPS)
 
 ---
 
@@ -80,7 +83,7 @@ OOP-based management system for movies, users, and rentals.
 ---
 
 ### 🌱 Chaîne Cacao – Traceability System
-Supply chain traceability system using structured backend architecture.
+Supply chain traceability system for cocoa production using backend architecture.
 
 🔗 <a href="https://github.com/Del2pierro/chaine-cacao" target="_blank">View Project</a>
 
@@ -90,9 +93,9 @@ Supply chain traceability system using structured backend architecture.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Del2pierro&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Del2pierro&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Del2pierro&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://streak-stats.demolab.com?user=Del2pierro&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 

@@ -95,16 +95,12 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
 ---
 ## Blockchain Skills
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=hyperledger" /><br/>
-      <b>Hyperledger Fabric</b><br/>
-      Private Blockchain Networks<br/>
-      Smart Contracts · Traceability Systems
-    </td>
-  </tr>
-</table>
+    
+  <img src="https://skillicons.dev/icons?i=hyperledger" /><br/>
+  <b>Hyperledger Fabric</b><br/>
+  Private Blockchain Networks<br/>
+  Smart Contracts · Traceability Systems
+  
 
 
 ## 🚀 Featured Projects
@@ -123,12 +119,12 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
 <p align="center">
 
 <a href="https://github.com/Del2pierro">
-  <img src="https://img.shields.io/badge/⚛️_PORTFOLIO-0A0F1C?style=for-the-badge&labelColor=2B2F36&color=111827"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-0A0F1C?style=for-the-badge&labelColor=2B2F36&color=111827"/>
 </a>
 
-<a href="https://github.com/Del2pierro">
+<!-- <a href="https://github.com/Del2pierro">
   <img src="https://img.shields.io/badge/KLAUS.SOFTWARE-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/pierre-paul-kpatou-934506390/">
   <img src="https://img.shields.io/badge/LINKEDIN-2B2F36?style=for-the-badge&logo=linkedin&logoColor=white"/>

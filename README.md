@@ -28,13 +28,36 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
 
 ## 🛠️ Tech Stack
 
-### 💻 Core Languages
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>DevOps</b></td>
+    <td align="center"><b>Blockchain</b></td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,javascript" /><br/>
+      Python · Java · JavaScript
+    </td>
 
----
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,spring" /><br/>
+      FastAPI · Flask · Spring Boot
+    </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,linux" /><br/>
+      Docker · Git · Linux
+    </td>
+
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=hyperledger" /><br/>
+      Hyperledger Fabric
+    </td>
+  </tr>
+</table>
 
 ### 📊 Data Science & Machine Learning
 
@@ -47,41 +70,6 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
 
 ---
 
-### ⚙️ Backend & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring" />
-</p>
-
-- REST API development
-- Backend architecture design
-- Service-based applications
-
----
-
-### ⛓️ Blockchain Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=hyperledger" />
-</p>
-
-- Hyperledger Fabric (private blockchain networks)
-- Supply chain traceability systems
-- Distributed ledger concepts
-
----
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
-</p>
-
-- Docker containerization
-- CI/CD fundamentals (GitHub Actions)
-- Cloud deployment concepts (AWS / VPS)
-
----
 
 ## 🚀 Featured Projects
 
@@ -97,7 +85,7 @@ Backend system for tracking cocoa production across the supply chain.
 
 Focus: transparency, traceability, and data integrity.
 
-🔗 https://github.com/Del2pierro/chaine-cacao
+🔗 https://github.com/timothee-klaus/Chaine-cacao
 
 ---
 

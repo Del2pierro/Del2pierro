@@ -14,13 +14,13 @@ Building data-driven systems with a focus on machine learning, backend engineeri
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/📍_LOCATED-4B5563?style=for-the-badge&labelColor=6B7280"/>
+<img src="https://img.shields.io/badge/LOCATED-4B5563?style=for-the-badge&labelColor=6B7280"/>
 
 <img src="https://img.shields.io/badge/TOGO-111827?style=for-the-badge&color=172554"/>
 
 <img src="https://img.shields.io/badge/STACK-2B2F36?style=for-the-badge&labelColor=6B7280"/>
 
-<img src="https://img.shields.io/badge/FLUTTER_|_REACT_|_SPRINGBOOT-0B1120?style=for-the-badge&color=0F172A"/>
+<img src="https://img.shields.io/badge/PYTHON_|_FASTAPI_|_SPRINGBOOT_|_NUMPY-0B1120?style=for-the-badge&color=0F172A"/>
 
 </p>
 
@@ -93,45 +93,29 @@ My approach emphasizes **clean code, structure, and reliability over complexity*
 - Model evaluation & statistical analysis
 
 ---
+## Blockchain Skills
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=hyperledger" /><br/>
+      <b>Hyperledger Fabric</b><br/>
+      Private Blockchain Networks<br/>
+      Smart Contracts · Traceability Systems
+    </td>
+  </tr>
+</table>
 
 
 ## 🚀 Featured Projects
 
-### 📊 Aviator Prediction Model
-Machine learning system for pattern recognition and probabilistic modeling.
+<p align="center">
 
-🔗 https://github.com/Del2pierro/Aviator_Predictor
+<a href="https://github.com/Del2pierro?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
+</a>
 
----
-
-### 🌱 Chaîne Cacao – Traceability System
-Backend system for tracking cocoa production across the supply chain.
-
-Focus: transparency, traceability, and data integrity.
-
-🔗 https://github.com/timothee-klaus/Chaine-cacao
-
----
-
-### 🎬 Video Club System (Java)
-Object-oriented system for managing media inventory and rentals.
-
-Focus: clean architecture and modular design.
-
-🔗 https://github.com/Del2pierro/video_club_java_apk
-
-
-
----
-
-## 🎯 Engineering Principles
-
-- Write simple and maintainable code  
-- Prefer correctness over complexity  
-- Build structured systems, not scripts  
-- Focus on scalability and readability  
-- Document work clearly and consistently  
-
+</p>
 ---
 
 ## 📫 Contact
@@ -155,7 +139,7 @@ Focus: clean architecture and modular design.
 </a>
 
 <a href="mailto:pierrepaulkatou04@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_EMAIL-6B7280?style=for-the-badge&labelColor=2B2F36"/>
+  <img src="https://img.shields.io/badge/EMAIL-6B7280?style=for-the-badge&labelColor=2B2F36"/>
 </a>
 
 <a href="mailto:pierrepaulkatou04@gmail.com">
